@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gyubin&theme=dark&locale=ko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BugSquasher2400&theme=dark&locale=ko)](https://git.io/streak-stats)
 <!--
 **BugSquasher2400/BugSquasher2400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
