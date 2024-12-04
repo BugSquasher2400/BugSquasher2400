@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=180&text=Full%20Stack,%20Developer!&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=180&text=Full%20Stack,%20Developer!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 욕심있는 개발자입니다 </h2>  
@@ -33,8 +33,8 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=BugSquasher2400&custom_title=BugSquasher2400's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugSquasher2400&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=BugSquasher2400&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugSquasher2400&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
+           /> </div> 
     </div>
     
